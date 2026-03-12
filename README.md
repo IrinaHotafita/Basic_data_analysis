@@ -1,9 +1,22 @@
 # Basic_data_analysis
+
 ## Sommaire
-Il y a 2 dossiers :
-data : contenant 3 fichiers .csv de données de capteurs utilisé comme example
-scripts : 2 scripts dont l'un un example de prétraitement et le deuxième des examples de figures
- utils : des codes suplémentaire utilisée
+
+Le projet contient 2 dossiers principaux :
+
+- data : contient 3 fichiers .csv de données de capteurs, utilisés à titre d’exemple.
+  
+- scripts : contient :
+  
+      deux scripts
+  
+         - des exemple de prétraitement des données
+  
+         - des exemples de visualisations (figures)
+  
+         - un sous-dossier utils : modules supplémentaires utilisés par les scripts pour éviter la répétition de code.
+
+## Si vous n'avez pas encore Jupyter notebook
 
 Vous trouverez ci-dessous les instructions pour installer Python.
 

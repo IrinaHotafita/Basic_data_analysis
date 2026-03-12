@@ -12,9 +12,9 @@ Le projet contient 2 dossiers principaux :
   
       deux scripts
   
-         - des exemple de prétraitement des données
+         - quelques exemples de prétraitement des données
   
-         - des exemples de visualisations (figures)
+         - quelques exemples de visualisations (figures)
   
          - un sous-dossier utils : modules supplémentaires utilisés par les scripts pour éviter la répétition de code.
 

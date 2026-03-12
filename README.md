@@ -4,7 +4,7 @@ Vous trouverez ci-dessous les instructions pour installer Python.
 
 Installer python avec Anaconda : https://www.anaconda.com/download?utm_source=anacondadocs&utm_medium=documentation&utm_campaign=download&utm_content=installwindows
 
-Créer un environnement virtuel
+- Créer un environnement virtuel
 
 Dans console Anaconda prompt
  
@@ -12,7 +12,7 @@ Conda create -n <Nom_Environnement> python=3.12                      " <Nom_Envi
  
 Conda activate <Nom_Environnement>                                
 
-Installer les librairies
+- Installer les librairies
 Pour cela il suffit d'ouvrir un prompt anaconda et installer les packages avec:
 
 
@@ -38,7 +38,7 @@ pip install scikit-learn
 
 pip install tensorflow
 
-Descriptions :
+- Descriptions :
 Python est juste un langage.
 
 Les librairies sont les outils (écrit en Python)
@@ -46,7 +46,7 @@ Les librairies sont les outils (écrit en Python)
  
 
 - Manipulation de données
-- 
+  
 pandas => Manipulation de données (tableau ou DataFrame)
 
 numpy => Calcul scientifique, tableaux multidimensionnels (arrays), algèbre linéaire
@@ -56,7 +56,7 @@ scipy => Calcul scientifique avancé (statistiques, etc.)
 pytz => manipulation des dates
 
 - Visualisation de données
-- 
+  
 matplotlib => Graphiques 2D
 
 seaborn => Visualisations plus belle (basée sur matplotlib)
@@ -64,7 +64,7 @@ seaborn => Visualisations plus belle (basée sur matplotlib)
 plotly => Graphiques interactifs
 
 - Machine Learning et IA
-- 
+  
 scikit-learn => Machine learning classique (régression, classification, clustering)
 
 tensorflow => Deep learning (LSTM,...)

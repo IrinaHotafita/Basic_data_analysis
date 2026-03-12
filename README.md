@@ -20,13 +20,21 @@ pip install jupyter
 Puis installer les librairies suivantes : (ce sont les bases mais vous pourrez installer d'autres packages plus tard)
 
 pip install numpy
+
 pip install pandas
+
 pip install scipy
+
 pip install pytz
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install plotly
+
 pip install scikit-learn
+
 pip install tensorflow
 
 Descriptions :

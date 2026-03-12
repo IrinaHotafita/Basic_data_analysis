@@ -1,5 +1,7 @@
 # Basic_data_analysis
 
+(Pour ceux qui n'ont jamais utilisé GitHub : pour télécharger le projet, cliquez sur < > Code et choisissez “Download ZIP”.)
+
 ## Sommaire
 
 Le projet contient 2 dossiers principaux :

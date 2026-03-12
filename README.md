@@ -39,6 +39,7 @@ pip install scikit-learn
 pip install tensorflow
 
 - Descriptions :
+- 
 Python est juste un langage.
 
 Les librairies sont les outils (écrit en Python)
